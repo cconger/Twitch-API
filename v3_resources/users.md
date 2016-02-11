@@ -5,7 +5,7 @@ These are members of the Twitch community who have a Twitch account. If broadcas
 | Endpoint | Description |
 | ---- | --------------- |
 | [GET /users/:user](/v3_resources/users.md#get-usersuser) | Get user object |
-| [GET /users/:user/emotes](/v3_resources/users.md#get-usersuseremotes) | Get users emotes |
+| [GET /users/:user/emotes](/v3_resources/users.md#get-usersuseremotes) | Get list of user's emotes |
 | [GET /user](/v3_resources/users.md#get-user) | Get user object |
 | [GET /streams/followed](/v3_resources/users.md#get-streamsfollowed) | Get list of streams user is following |
 | [GET /videos/followed](/v3_resources/users.md#get-videosfollowed) | Get list of videos belonging to channels user is following |
